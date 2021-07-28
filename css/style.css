@@ -1,0 +1,40 @@
+/* Google Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+ /* Start CSS */
+ body{
+    font-family: 'Poppins', sans-serif;
+ }
+/* Start Header Section CSS  */
+ .bg-color{
+     background-color: #264653;
+ }
+ .header-text{
+     color: #fff;
+ }
+ #btn{
+    background-color: #E76F51;
+}
+/* Start Header Section CSS  */
+ /* Start Bikes Section CSS */
+ .scale{
+     filter: grayscale(100%);
+ }
+ /* End Bikes Section CSS */
+ /* Start FAQ Section CSS */
+ .accordion-button:not(.collapsed) {
+    color: #383838;
+    background-color: #fff;
+    box-shadow: none;
+}
+.accordion-button{
+    color: #383838;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.accordion-body p{
+    color: #7E848C;
+    font-family: 'Inter', sans-serif;
+}
+ /* End FAQ Section CSS */
