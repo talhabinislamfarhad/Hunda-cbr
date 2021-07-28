@@ -38,3 +38,8 @@
     font-family: 'Inter', sans-serif;
 }
  /* End FAQ Section CSS */
+ /* Start Footer Section CSS */
+ .footer-text a{
+     text-decoration: none;
+ }
+ /* End Footer Section CSS */
