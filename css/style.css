@@ -44,6 +44,11 @@
     font-family: 'Inter', sans-serif;
 }
  /* End FAQ Section CSS */
+ /* Start News Section CSS */
+ .read-btn{
+    border: 1px solid #E76F51;
+ }
+ /* End News Section CSS */
  /* Start Member Section CSS */
 .item{
     border-radius: 20px;
