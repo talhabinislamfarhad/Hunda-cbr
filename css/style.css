@@ -48,6 +48,9 @@
  .read-btn{
     border: 1px solid #E76F51;
  }
+ .news-btn:hover{
+     color: #E76F51;
+ }
  /* End News Section CSS */
  /* Start Member Section CSS */
 .item{
